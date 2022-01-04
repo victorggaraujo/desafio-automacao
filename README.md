@@ -1,4 +1,4 @@
-# Automatization Test
+# Automated Test
 
 ## How to setup the environment
 
@@ -10,11 +10,11 @@ Clone the repository
 ```sh
 git clone https://github.com/victorggaraujo/desafio-automacao.git
 ```
-go to cloned repository
+go into the folder
 ```sh
 cd desafio-automacao
 ```
 then run the test
 ```sh
-maven test
+mvn test
 ```
